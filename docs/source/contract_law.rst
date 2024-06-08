@@ -1,4 +1,4 @@
-Usage
+The Law of the Contract
 =====
 
 .. _installation:
